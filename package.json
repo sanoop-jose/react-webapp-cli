@@ -1,0 +1,32 @@
+{
+  "name": "react-webapp-cli",
+  "version": "1.0.0",
+  "description": "React app CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanoop-jose/react-webapp-cli.git"
+  },
+  "keywords": [
+    "react",
+    "cli",
+    "app",
+    "webapp"
+  ],
+  "author": "Sanoop Jose <snupjos@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "react": "./index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/sanoop-jose/react-webapp-cli/issues"
+  },
+  "homepage": "https://github.com/sanoop-jose/react-webapp-cli#readme",
+  "dependencies": {
+    "chalk": "^2.0.1",
+    "commander": "^2.10.0"
+  }
+}
